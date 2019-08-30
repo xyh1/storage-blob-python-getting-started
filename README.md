@@ -4,6 +4,8 @@ platforms: python
 author: dineshmurthy
 ---
 
+[!NOTE] Please see our updated getting started guide here: https://azure.microsoft.com/resources/samples/storage-python-getting-started/
+
 # Azure Storage: Getting Started with Azure Storage in Python
 Samples documenting basic operations with Azure Blob storage services in Python. 
 
